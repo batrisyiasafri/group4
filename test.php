@@ -6,6 +6,8 @@
 	<title></title>
 </head>
 <body>
-
+	<?php
+	echo "Hi ashee";
+	?>
 </body>
 </html>
